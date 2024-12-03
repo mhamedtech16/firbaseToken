@@ -1,7 +1,7 @@
 var { google } = require("googleapis");
 
 // Load the service account key JSON file.
-var serviceAccount = require("./placeholders/supermarket-5335d-firebase-adminsdk.json");
+var serviceAccount = require("./placeholders/supermarket-5335d-firebase-adminsdk-5u14m-e451272543.json");
 
 // Define the required scopes.
 var scopes = [
